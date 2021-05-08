@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636461816423",
+    "project_id": "visura-test",
+    "storage_bucket": "visura-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636461816423:android:ef5e17503f86acde8cd2c2",
+        "android_client_info": {
+          "package_name": "com.example.viduratest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636461816423-tim1acqt790ircs6uk16iscq1hme8sre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdWRjriADuP2w3NU5bF2j5rrylQHEINOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636461816423-tim1acqt790ircs6uk16iscq1hme8sre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

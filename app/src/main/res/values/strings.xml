@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Vidura Test</string>
+
+    <string name="first_name_required">First Name Required!</string>
+    <string name="last_name_required">Last Name Required!</string>
+    <string name="email_required">Email Required!</string>
+    <string name="password_required">Password Required!</string>
+    <string name="confirm_password_required">Confirm Password Required!</string>
+    <string name="invalid_email">Invalid email address"!</string>
+
+    <string name="error_message">Something Went wrong.please try again!</string>
+    <string name="no_internet_connection_message">There is no internet Conection.please try again!</string>
+    <string name="shared_preference">Shared Preference</string>
+    <string name="login_preference">Login Preference</string>
+
+    <string name="facebook_app_id">525442105119841</string>
+    <string name="fb_login_protocol_scheme">fb525442105119841</string>
+</resources>
